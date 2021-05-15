@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3247983765
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: note
+      Dependencies: {}
+    Info_1:
+      Name: songbutton
+      Dependencies: {}

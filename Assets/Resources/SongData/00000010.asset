@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ea2cee2f2a1b4ba3d3eb695865278, type: 3}
+  m_Name: 00000010
+  m_EditorClassIdentifier: 
+  isLocked: 0
+  isFaved: 1
+  title: Tronica and Fugue
+  artist: Jehezukiel
+  EZLevel: 2
+  NLLevel: 5
+  HDLevel: 8
+  EXLevel: 14
+  EZScore: 68543
+  NLScore: 105685
+  HDScore: 823480
+  EXScore: 956923
+  EZAcc: 100
+  NLAcc: 100
+  HDAcc: 93
+  EXAcc: 95
+  EZCombo: 82
+  NLCombo: 197
+  HDCombo: 324
+  EXCombo: 459
+  EZRank: SS
+  NLRank: SS
+  HDRank: S
+  EXRank: S
+  albumart: {fileID: 21300000, guid: d0b7dc3f6e4f0744485cf62d81e2e523, type: 3}
+  EZStatus: 3
+  NLStatus: 3
+  HDStatus: 1
+  EXStatus: 2

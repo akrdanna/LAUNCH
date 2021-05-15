@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ea2cee2f2a1b4ba3d3eb695865278, type: 3}
+  m_Name: 00000003
+  m_EditorClassIdentifier: 
+  isLocked: 0
+  isFaved: 0
+  title: Requiem Cataclysm
+  artist: 5KiLOBYTE & Raphiiel
+  EZLevel: 4
+  NLLevel: 6
+  HDLevel: 8
+  EXLevel: 12
+  EZScore: 38484
+  NLScore: 84587
+  HDScore: 568534
+  EXScore: 908458
+  EZAcc: 83
+  NLAcc: 86
+  HDAcc: 98
+  EXAcc: 90
+  EZCombo: 76
+  NLCombo: 56
+  HDCombo: 634
+  EXCombo: 924
+  EZRank: A
+  NLRank: A
+  HDRank: S
+  EXRank: S
+  albumart: {fileID: 21300000, guid: 275f87fd2a594154c9f56dda14fe48b5, type: 3}
+  EZStatus: 1
+  NLStatus: 1
+  HDStatus: 1
+  EXStatus: 2

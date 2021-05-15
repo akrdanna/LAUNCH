@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ea2cee2f2a1b4ba3d3eb695865278, type: 3}
+  m_Name: 00000004
+  m_EditorClassIdentifier: 
+  isLocked: 0
+  isFaved: 0
+  title: Vice Versa
+  artist: Raphiiel
+  EZLevel: 1
+  NLLevel: 4
+  HDLevel: 7
+  EXLevel: 9
+  EZScore: 45745
+  NLScore: 94582
+  HDScore: 740445
+  EXScore: 956953
+  EZAcc: 90
+  NLAcc: 93
+  HDAcc: 100
+  EXAcc: 96
+  EZCombo: 47
+  NLCombo: 95
+  HDCombo: 543
+  EXCombo: 348
+  EZRank: S
+  NLRank: S
+  HDRank: SS
+  EXRank: SS
+  albumart: {fileID: 21300000, guid: d32d89efa0249844dba84a64e83748b6, type: 3}
+  EZStatus: 2
+  NLStatus: 1
+  HDStatus: 3
+  EXStatus: 1

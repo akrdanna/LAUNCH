@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3337395220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bea164ca5a93c5f903da9c4f4980786d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61919f51e51afc57645f788c0ee69fdf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f1a9da2438f53a40a8e5c622738683b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed934269a85d0934db5362ba05a9d295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d416e6ef41022a346baed96ea133a908, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefabs/catch.prefab
+- Assets/Resources/Prefabs/hold.prefab
+- Assets/Resources/Prefabs/hit.prefab
+Dependencies: []

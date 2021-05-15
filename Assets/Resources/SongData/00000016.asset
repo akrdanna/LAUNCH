@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ea2cee2f2a1b4ba3d3eb695865278, type: 3}
+  m_Name: 00000016
+  m_EditorClassIdentifier: 
+  isLocked: 0
+  isFaved: 1
+  title: ARESI
+  artist: Jehezukiel
+  EZLevel: 3
+  NLLevel: 7
+  HDLevel: 9
+  EXLevel: 10
+  EZScore: 50456
+  NLScore: '-'
+  HDScore: 238357
+  EXScore: '-'
+  EZAcc: 95
+  NLAcc: '-'
+  HDAcc: 85
+  EXAcc: '-'
+  EZCombo: 65
+  NLCombo: '-'
+  HDCombo: 212
+  EXCombo: '-'
+  EZRank: S
+  NLRank: '-'
+  HDRank: A
+  EXRank: '-'
+  albumart: {fileID: 21300000, guid: 52af67db083f8334f9214ef5e921eeb0, type: 3}
+  EZStatus: 2
+  NLStatus: 0
+  HDStatus: 2
+  EXStatus: 0

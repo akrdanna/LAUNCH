@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ea2cee2f2a1b4ba3d3eb695865278, type: 3}
+  m_Name: 00000013
+  m_EditorClassIdentifier: 
+  isLocked: 0
+  isFaved: 0
+  title: Clouds
+  artist: EDMAA
+  EZLevel: 2
+  NLLevel: 5
+  HDLevel: 7
+  EXLevel: 9
+  EZScore: '-'
+  NLScore: 96457
+  HDScore: 934834
+  EXScore: 1045683
+  EZAcc: '-'
+  NLAcc: 95
+  HDAcc: 100
+  EXAcc: 100
+  EZCombo: '-'
+  NLCombo: 87
+  HDCombo: 634
+  EXCombo: 1056
+  EZRank: '-'
+  NLRank: A
+  HDRank: SS
+  EXRank: SS
+  albumart: {fileID: 21300000, guid: e9ecd13bee02f4a48af37228f34ed788, type: 3}
+  EZStatus: 0
+  NLStatus: 1
+  HDStatus: 3
+  EXStatus: 3

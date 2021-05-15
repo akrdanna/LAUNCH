@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ea2cee2f2a1b4ba3d3eb695865278, type: 3}
+  m_Name: 00000005
+  m_EditorClassIdentifier: 
+  isLocked: 0
+  isFaved: 0
+  title: Game
+  artist: Rukadesu
+  EZLevel: 2
+  NLLevel: 5
+  HDLevel: 7
+  EXLevel: 9
+  EZScore: 56956
+  NLScore: '-'
+  HDScore: '-'
+  EXScore: 1045693
+  EZAcc: 100
+  NLAcc: '-'
+  HDAcc: '-'
+  EXAcc: 100
+  EZCombo: 70
+  NLCombo: '-'
+  HDCombo: '-'
+  EXCombo: 845
+  EZRank: SS
+  NLRank: '-'
+  HDRank: '-'
+  EXRank: SS
+  albumart: {fileID: 21300000, guid: 93ccdd4b2a50cbb4aae6984a62d6627d, type: 3}
+  EZStatus: 3
+  NLStatus: 0
+  HDStatus: 0
+  EXStatus: 3

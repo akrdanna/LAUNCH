@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ea2cee2f2a1b4ba3d3eb695865278, type: 3}
+  m_Name: 00000006
+  m_EditorClassIdentifier: 
+  isLocked: 0
+  isFaved: 0
+  title: LUNARIS
+  artist: AX10MA.DECADE
+  EZLevel: 2
+  NLLevel: 6
+  HDLevel: 9
+  EXLevel: 13
+  EZScore: '-'
+  NLScore: '-'
+  HDScore: 498125
+  EXScore: 856934
+  EZAcc: '-'
+  NLAcc: '-'
+  HDAcc: 87
+  EXAcc: 96
+  EZCombo: '-'
+  NLCombo: '-'
+  HDCombo: 278
+  EXCombo: 745
+  EZRank: '-'
+  NLRank: '-'
+  HDRank: A
+  EXRank: S
+  albumart: {fileID: 21300000, guid: a0e094cbe3ddd1d4aac0758b87364b20, type: 3}
+  EZStatus: 0
+  NLStatus: 0
+  HDStatus: 2
+  EXStatus: 2
